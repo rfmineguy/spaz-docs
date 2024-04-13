@@ -19,9 +19,6 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/rfmineguy/spaz
-    - theme: alt
-      text: Test
-      link: err
 
 features:
   - title: Postfix By Default

@@ -44,8 +44,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/rfmineguy/spaz' }
     ],
-
-		logo: '/favicon.png'
   },
-	head: [['link', {rel: 'icon', href: '/favicon.ico'}]]
+	head: [
+    ['link', { rel: 'icon', href: '/spaz-docs/favicon.ico' }]
+	]
 })
