@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+	base: '/docs/',
   title: "Spaz Docs",
   description: "Documentation for the Spaz programming language",
   themeConfig: {
