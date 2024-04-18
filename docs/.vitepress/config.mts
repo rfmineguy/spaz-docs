@@ -37,6 +37,7 @@ export default defineConfig({
 							{ text: "If Statements (WIP)", link: '/code/if_statements' },
 						]
 					},
+					{ text: "Sample Code", link: '/code/sample'}
 				]
 			}
     ],
