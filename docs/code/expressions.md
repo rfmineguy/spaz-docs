@@ -79,3 +79,5 @@ In this example we are printing the result of the expression `4 9 + 4 *`
 | print     | display the value at the top of the stack with no newline |
 | println   | display the value at the top of the stack *with* newline |
 | input     | waits for terminal input and stores what it at the top of the stack |
+| exit      | exits the program immediately (no exit code argument) |
+| showstack | displays the current state of the stack |
